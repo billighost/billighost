@@ -26,7 +26,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,html,css,mongodb,postgres,git,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,flask,nodejs,html,css,postgres,firebase,git,vscode&theme=dark" />
 </p>
 
 ---
@@ -47,11 +47,19 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/billighost/PROJECT-NAME-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=billighost&repo=PROJECT-NAME-1&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+  <a href="https://github.com/billighost/devdrill">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=billighost&repo=devdrill&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/billighost/PROJECT-NAME-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=billighost&repo=PROJECT-NAME-2&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+  <a href="https://github.com/billighost/Tfunmat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=billighost&repo=Tfunmat&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/billighost/unravel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=billighost&repo=unravel&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/billighost/Buildify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=billighost&repo=Buildify&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
   </a>
 </p>
 
