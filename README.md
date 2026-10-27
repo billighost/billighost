@@ -23,7 +23,7 @@
 | **[Indeck](https://indeck.ng/) + [Indeck Runner](https://runner.indeck.ng/)** | Live e-commerce platform plus the app delivery runners use for pickup, tracking, KYC, wallet and chat. Source is private (company-owned). | React, Vite, React Query, Python | [Indeck](https://indeck.ng/) · [Runner](https://runner.indeck.ng/) |
 | **[Billighost OS](https://github.com/billighost/Billighost-OS)** | A full desktop OS in the browser, with a window manager, file manager, terminal, code editor, paint studio, video editor and more, driven by one app manifest. | React 19, Vite, Three.js | [Live demo](https://billighost-os.vercel.app/) |
 | **[Unravel](https://github.com/billighost/unravel)** | Turns images, drawings or text into a physical 3D block simulation you can fling and explode, with real-time video export. | Next.js, TypeScript, Three.js, WebGL | [Live demo](https://unravel-bice.vercel.app/) |
-| **[MarketLink](https://github.com/billighost/marketlink)** | Full-stack marketplace connecting local farmers with neighbourhood customers for pickup pre-orders, with buyer, vendor and admin roles. Built for Aptech's TechWiz hackathon. | React, Express, MongoDB | [Repo](https://github.com/billighost/marketlink) |
+| **[MarketLink](https://github.com/billighost/marketlink)** | Full-stack marketplace connecting local farmers with neighbourhood customers for pickup pre-orders, with buyer, vendor and admin roles. Built for Aptech's TechWiz hackathon. | React, Express, MongoDB | https://marketlink-cortex.vercel.app/  |
 
 ### Client work (live in production)
 
