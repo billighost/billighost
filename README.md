@@ -1,79 +1,52 @@
-<h1 align="center">Hi, I'm Billighost 👋</h1>
+# Bilal Bello · Full-Stack Developer
 
-<h3 align="center">Full-Stack Developer | React · Node.js · Python</h3>
+**React · Node.js · Python** — I build and ship products that real people use, from e-commerce platforms to developer tools. **Open to remote roles.**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;React+%2B+Node.js+%2B+Python;Turning+ideas+into+working+products;Open+to+remote+work+%F0%9F%8C%8D" alt="Typing SVG" />
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=billighost&label=Profile%20Views&color=00FF9C&style=flat" alt="profile views" />
+## What I do now
+
+- **Lead developer at [Indeck](https://indeck.ng/)**, an e-commerce platform launched at the University of Ibadan with around **500 users in its first three months**. I work remotely across the platform, including the Python backend, the buying and selling frontend, and the delivery runner app.
+- **Founder of [Mesh](https://github.com/billighost/Mesh)**, an open-source memory layer for AI coding agents, published on PyPI.
+- **Co-founder of [Dezola Studios](https://dezolastudio.name.ng/)**, a design and web agency where I build client sites.
+- Building an AI-powered sales management platform, currently in private beta with selected partners.
+
+---
+
+## Selected work
+
+### Products and open source
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **[Mesh](https://github.com/billighost/Mesh)** | Local-first shared memory and task ledger for AI coding agents. One agent learns something and another can recall it later, with no cloud service in between. A local MCP server (17 tools), CLI and HTTP API. Published as `mesh-context-layer`. | Python, SQLite, ONNX (local embeddings), MCP, C core | [Site](https://mesh-context-layer.vercel.app/) · [PyPI](https://pypi.org/project/mesh-context-layer/) |
+| **[Indeck](https://indeck.ng/) + [Indeck Runner](https://runner.indeck.ng/)** | Live e-commerce platform plus the app delivery runners use for pickup, tracking, KYC, wallet and chat. Source is private (company-owned). | React, Vite, React Query, Python | [Indeck](https://indeck.ng/) · [Runner](https://runner.indeck.ng/) |
+| **[Billighost OS](https://github.com/billighost/Billighost-OS)** | A full desktop OS in the browser, with a window manager, file manager, terminal, code editor, paint studio, video editor and more, driven by one app manifest. | React 19, Vite, Three.js | [Live demo](https://billighost-os.vercel.app/) |
+| **[Unravel](https://github.com/billighost/unravel)** | Turns images, drawings or text into a physical 3D block simulation you can fling and explode, with real-time video export. | Next.js, TypeScript, Three.js, WebGL | [Live demo](https://unravel-bice.vercel.app/) |
+| **[MarketLink](https://github.com/billighost/marketlink)** | Full-stack marketplace connecting local farmers with neighbourhood customers for pickup pre-orders, with buyer, vendor and admin roles. Built for Aptech's TechWiz hackathon. | React, Express, MongoDB | [Repo](https://github.com/billighost/marketlink) |
+
+### Client work (live in production)
+
+| Client | What I built | Link |
+|---|---|---|
+| **Adash Exclusive** | Website for a printing and signage company | [adashexclusive.com](http://adashexclusive.com/) |
+| **Tfunmat Liquor Store** | Full online store with admin dashboard | [tfunmatliquorstore.ng](https://tfunmatliquorstore.ng/) |
+| **Sedaris** | Storefront for a clothing business | [sedaris.vercel.app](https://sedaris.vercel.app/) |
+
+Client and company repositories are private. I'm happy to walk through them in an interview.
+
+---
+
+## Tech I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,flask,mongodb,postgres,firebase,threejs,git,vercel&theme=dark" />
 </p>
 
 ---
 
-### ⚡ About Me
+## Get in touch
 
-- 🔭 I build full-stack web applications with **React**, **Node.js**, and **Python**
-- 🌱 Currently sharpening my skills in scalable backend architecture
-- 💼 Available for **freelance / remote** projects
-- 📫 Email: **bb2010ng@gmail.com**
-- 📱 Phone/WhatsApp: **+234 904 842 8304**
-- ⚙️ Fun fact: I debug faster with coffee ☕
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,python,flask,nodejs,html,css,postgres,firebase,git,vscode&theme=dark" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=billighost&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billighost&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=billighost&theme=react&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/billighost/devdrill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=billighost&repo=devdrill&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/billighost/Tfunmat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=billighost&repo=Tfunmat&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/billighost/unravel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=billighost&repo=unravel&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/billighost/Buildify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=billighost&repo=Buildify&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
-  </a>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.instagram.com/realmarsgale"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:bb2010ng@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gray00.gif" width="100%">
-</p>
+- Email: [bb2010ng@gmail.com](mailto:bb2010ng@gmail.com)
+- Instagram: [@realmarsgale](https://www.instagram.com/realmarsgale)
+- Agency: [dezolastudio.name.ng](https://dezolastudio.name.ng/)
